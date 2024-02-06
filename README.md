@@ -1,13 +1,16 @@
 ### Hi there 👋
 <div align="center"> 
-   <img src="https://visitor-badge.glitch.me/badge?page_id=MultiNet02" />
 </div>
    <a href="https://github.com/MultiNet02" target="_blank"><img alt="MultiNet02" src="https://badges.pufler.dev/visits/MultiNet02/MultiNet02?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>  
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=dark)
+- 🕵️ My research interests include but not limited to: Graph Neural Network, Embodied AI, SLAM, Muiltimodal LLM, Quantitative Trading.
+- 🦸 I am also passionate about reading about cognitive science, memory mechanisms and philosophy, especially Schopenhauer and Deleuze.
+- 👀 If you are interested in languages learning, Viaja a través de paisajes or Viel Spaß beim Lesen von Gedichten，feel free to join in [Slack Team](). Let's make a soul mate be found possible in our short lifetime.
+- 🌐 Checkout [my homepage](https://haozhexie.com/about) and [Google Scholar](https://scholar.google.com/citations?user=b3EiE-IAAAAJ) for more information.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MultiNet02/MultiNet02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,20 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MultiNet02&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MultiNet02&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MultiNet02&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
