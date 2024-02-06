@@ -1,26 +1,23 @@
-name: Progress Bar CI
+name: Daily Year Progress Update
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 13 * * *'  # Runs at 8 every day
+  push:
+    branches: [ main ]  # Or your default branch
 
 jobs:
-  build:
-
+  update-progress:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '14.x'
-    - name: Update README.md
-      run: node index.js > README.md
-    - name: Commit change & Push
-      run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '109275192+github-actions[bot]@users.noreply.github.com'
-          git commit -am "bot: update README.md automatically"
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Ensures the entire history is checked out
+          token: ${{ secrets.GIT_TOKEN }}
+      - name: Update Year Progress
+        run: |
+          python progress.py > README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update Year Progress"
           git push
