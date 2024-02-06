@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.91 %
+
+---
 <div align="center"> 
 </div>
    <a href="https://github.com/MultiNet02" target="_blank"><img alt="MultiNet02" src="https://badges.pufler.dev/visits/MultiNet02/MultiNet02?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>  
