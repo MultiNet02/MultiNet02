@@ -17,8 +17,6 @@ const readme = `\
 ### Hi there 👋
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
-
-### Hi there 👋
 <div align="center"> 
 </div>
    <a href="https://github.com/MultiNet02" target="_blank"><img alt="MultiNet02" src="https://badges.pufler.dev/visits/MultiNet02/MultiNet02?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>  
@@ -33,4 +31,5 @@ const readme = `\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 \
 `
+
 console.log(readme)
