@@ -14,7 +14,7 @@
 - 👀 If you are interested in languages learning, Viaja a través de paisajes or Viel Spaß beim Lesen von Gedichten，feel free to join in [Slack Team](). Let's make a soul mate be found possible in our short lifetime.
 - 🌐 Checkout [my homepage](http://multinet02.github.io/) and [Google Scholar]() for more information.
 
-![](https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
