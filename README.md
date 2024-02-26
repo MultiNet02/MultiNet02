@@ -15,6 +15,6 @@
 - 🌐 Checkout [my homepage](http://multinet02.github.io/) and [Google Scholar]() for more information.
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=radical&count_private=true" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact&theme=radical" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=radical&count_private=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact&theme=radical" />
 </p>
