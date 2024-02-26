@@ -30,8 +30,10 @@ const readme = `\
 - 👀 If you are interested in languages learning, Viaja a través de paisajes or Viel Spaß beim Lesen von Gedichten，feel free to join in [Slack Team](). Let's make a soul mate be found possible in our short lifetime.
 - 🌐 Checkout [my homepage](http://multinet02.github.io/) and [Google Scholar]() for more information.
 
-![](https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=MultiNet02&show_icons=true&theme=radical&count_private=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MultiNet02&layout=compact&theme=radical" />
+</p>
 
 \
 `
