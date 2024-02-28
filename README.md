@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.92 %
+⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.99 %
 
 ---
 
@@ -9,7 +9,7 @@
    <a href="https://github.com/MultiNet02" target="_blank"><img alt="MultiNet02" src="https://badges.pufler.dev/visits/MultiNet02/MultiNet02?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>  
 </div>
 
-- 🔥 My research interests include but not limited to: Graph Neural Network, Embodied AI, AI4Health, Muiltimodal LLM, Quantitative Trading.
+- 🕵️ My research interests include but not limited to: Graph Neural Network, Embodied AI, AI4Health, Muiltimodal LLM, Quantitative Trading.
 - 📚 I am also passionate about reading about cognitive science, communication and philosophy, especially Schopenhauer and Deleuze.
 - 👀 If you are interested in languages learning, Viaja a través de paisajes or Viel Spaß beim Lesen von Gedichten，feel free to join in [Slack Team](). Let's make a soul mate be found possible in our short lifetime.
 - 🌐 Checkout [my homepage](http://multinet02.github.io/) and [Google Scholar]() for more information.
